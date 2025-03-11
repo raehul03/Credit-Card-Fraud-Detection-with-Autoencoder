@@ -1,0 +1,1 @@
+This project implements an anomaly detection system for identifying credit card fraud using an autoencoder built with TensorFlow. The model is trained on the creditcard.csv dataset to reconstruct normal transactions and detect fraudulent ones based on reconstruction error.
